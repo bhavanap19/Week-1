@@ -1,0 +1,4 @@
+PROBLEM STATEMENT 
+With the rapid increase in urbanization and industrialization, waste generation has grown exponentially, leading to serious environmental and public health challenges.
+This project aims to develop a Convolutional Neural Network (CNN)-based image classification model using the Garbage Dataset to automatically classify waste into 10 categories such as metal, glass, biological, paper, plastic, cardboard, trash, clothes, shoes, and batteries.
+Support smart waste management systems, and promote environmental sustainability by reducing landfill waste and resource contamination.
