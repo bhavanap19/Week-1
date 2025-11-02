@@ -1,2 +1,4 @@
 # Week-1
 EchoBin applies Convolutional Neural Networks (CNNs) to automatically classify waste images into multiple categories such as plastic, paper, metal, glass, cardboard, and trash . The goal is to promote sustainable waste management by enabling AI-powered smart bins that can separate waste efficiently and reduce environmental pollution.
+Dataset Name: Garbage Dataset A Comprehensive Image Dataset for Garbage Classification and Recycling About Dataset This dataset contains images of garbage items categorized into 10 classes, designed for machine learning and computer vision projects focusing on recycling and waste management. It is ideal for building classification and developing AI-powered solutions for sustainable waste disposal. 
+Source: Kaggle Next Steps 1. Collect & Prepare Dataset 2. Train The CNN model Online at Teachable Machine 3. Evaluate & Test the Model 4. Build the Web Interface 5. Test the Complete Application 6. Deploy & Document
